@@ -1,7 +1,7 @@
 # TexttoText-Llama-3-8B
 In this project I have use model Llama-3-8B and trained it on dataset of Alpaca. 
 <br>
-Then pushed my trained model to My Hugging Face Account
+Then pushed my trained model to My Hugging Face Account .
 <br>
 I have use Huggingface TRL's SFTTrainer!.
 <br> 
